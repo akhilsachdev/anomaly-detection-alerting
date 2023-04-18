@@ -1,0 +1,20 @@
+.center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 300px;
+    min-height: 300px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px gray;
+}
+
+
+.titleText {
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 50px; 
+    margin-bottom: 50px;
+}
